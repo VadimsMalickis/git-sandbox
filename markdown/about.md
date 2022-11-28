@@ -1,34 +1,33 @@
 # Par mani
-***es esmu trekns***
 
-*italic*
+## Vadims Malickis
 
->Products
-- maize
-- piens
+![my-foto](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg)
 
 ---
 
-```php
-    $_SERVER = 1;
-```
----
+## Darba pieredze:
 
-[SS.LV](https://ss.lv)
-
-![My logo](https://i.ss.lv/img/main/work.png)
+- ***Laborants***
+  - PIKC "Rīgas Valsts tehnikums"
 
 ---
 
-| Id | name | password |
-|----|------|----------|
-| 1  | vadi | 12345    |
-| 1  | dima | 34225    |
-| 1  | vasa | 16565    |
+## Izglītība:
+
+- ***Vidēja professionālā izglītība "Programmēšanas tehniķis"***
+  - Rīgas 6. arodskola
 
 ---
 
-## Product List
-- [x] Milk
-- [ ] Bread
-- [ ] Fish
+## Prasmes:
+
+- ***Svešvaloda***
+
+
+| Valoda | Līmenis      |
+|----|-----------|
+| angļu     | B2 |
+| latviešu  | B2 |
+| krievu    | B2 |
+
